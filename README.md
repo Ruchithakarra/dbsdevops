@@ -1,1 +1,1 @@
-# dbsdevops
+# dbsdevopsfirst training class in DBS
